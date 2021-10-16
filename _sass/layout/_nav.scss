@@ -39,6 +39,7 @@
   outline: 0;
   border-bottom: 0;
   color: $heading-color;
+  object-fit: cover;
 
   &:hover {
     color: $heading-color;
@@ -47,7 +48,6 @@
 
   .header__logo--container {
     width: 58px;
-    object-fit: cover;
     
     .logo {
       fill: currentColor;
