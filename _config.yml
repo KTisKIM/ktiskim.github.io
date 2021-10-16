@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: RS::KEUNTAE "KURTIS" KIM # your site title
+title: RS :: KEUNTAE "KURTIS" KIM # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Hi, this is Keuntae "Kurtis" Kim.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
