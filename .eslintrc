@@ -1,20 +1,13 @@
 {
-    "env": {
-        "browser": true,
-        "jquery": true,
-        "node": true
+  "env": {
+      "browser": true,
+      "commonjs": true,
+      "es6": true,
+      "jquery": true,
     },
-    "rules": {
-        "no-console": "error",
-        "semi": ["error", "always"],
-        "quotes": ["error", "single"],
-        "comma-dangle": ["error", "never"],
-        "block-scoped-var": "error",
-        "default-case": "error",
-        "no-extra-bind": "error",
-        "camelcase": "error",
-        "indent": ["error", 2, { "SwitchCase": 1 }],
-        "eol-last": ["error", "always"]
-    },
-    "extends": ["eslint:recommended"]
+    "extends": "jquery",
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    }
 }
