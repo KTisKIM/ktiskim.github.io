@@ -34,7 +34,8 @@
   display: flex;
   height: 100%;
   overflow: hidden;
-  padding: 19px 0;
+  // padding: 19px 0;
+  padding: 12px 0;
   margin-right: 1.25rem;
   outline: 0;
   border-bottom: 0;
@@ -46,6 +47,7 @@
   }
 
   .header__logo--container {
+    // width: 58px;
     width: 100px;
     
     .logo {
