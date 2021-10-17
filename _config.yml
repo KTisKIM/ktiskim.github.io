@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 title: KEUNTAE "KURTIS" KIM # your site title
-author: GitHub User # You :P
+author: KTisKIM # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -27,18 +27,18 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Hi, this is Keuntae "Kurtis" Kim.
+  Hello, this is Keuntae "Kurtis" Kim!
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
-twitter_username: # replace with your_twitter_username or comment to remove link from footer
+# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
 github_username: KTisKIM # replace with your_github_username or comment to remove link from footer
 instagram_username: ktiskim # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
-  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+  shortname: ktiskim # to enable comments replace with your_disqus_shortname
 
 # google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
 
@@ -47,7 +47,7 @@ service_worker: true
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
   - node_modules
