@@ -4,6 +4,10 @@ title: Categories
 permalink: /categories/
 ---
 
+# <center>CATEGORIES</center>
+
+<br>
+
 <div>
 {% for category in site.categories %}
   <div class="archive-group">
