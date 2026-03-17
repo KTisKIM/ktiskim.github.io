@@ -1,9 +1,10 @@
 # **ktiskim.github.io**
 
-Currently working on my website! 😊
+Personal homepage built with Vue 3 + Vite, deployed on GitHub Pages.
 
 ## *Update History*
 (MM/DD/YYYY)
+- 03/17/2026: **v1.0.0** - Full rebuild with Vue 3 + Vite. New layout with responsive header, horizontal expanding menu, markdown-based blog system (Life/Tech), portfolio section, and GitHub Actions auto-deploy.
 - 12/20/2021: Back to the original Sleek theme. (Error occured with the created theme.)
 - 12/19/2021: Theme changed. Working on creating own theme.
 - 10/17/2021: Logo updated, top menu bar is now being transparent when it starts scrolling, enabled DISQUS in the blog posts.
